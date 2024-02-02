@@ -13,7 +13,7 @@ I followed along to [John Watson Rooney](https://www.youtube.com/@JohnWatsonRoon
   - The Punk API has built in querying.
   - I prompt the user for what type of food they are eating, and the API uses a fuzzy search to generate an array of objects.
     - This array of objects is a list of beers where the food pairings given for each beer in the API is fuzzy matched to the user's input.
-- Once the API finds and builds an array of beers that match the food pairing, it chooses a random one to recommend using the `Random` library, and generates a random recommendation to the screen.
+- Once the API finds and builds an array of beers that match the food pairing, it chooses a random one to recommend using the [`Random`](https://www.geeksforgeeks.org/python-random-module/#) module, and generates a random recommendation to the screen.
 
 ## Screenshots
 
