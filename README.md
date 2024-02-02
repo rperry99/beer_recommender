@@ -8,7 +8,7 @@ I haven't really made much with Python, and I have never worked with APIs in Pyt
 
 I followed along to [John Watson Rooney](https://www.youtube.com/@JohnWatsonRooney)'s video: "[HOW TO: JSON and APIs in PYTHON - A Beginners Look](https://www.youtube.com/watch?v=YgO5ff9sp7A)" to get an idea of how APIs in Python works.
 
-- Uses the `requests` HTTP library that sends an HTTP/1.1 request to the API.
+- Uses the [`requests`](https://pypi.org/project/requests/) HTTP library that sends an HTTP/1.1 request to the API.
 - The API used was the [Punk API](https://punkapi.com/documentation/v2).
   - The Punk API has built in querying.
   - I prompt the user for what type of food they are eating, and the API uses a fuzzy search to generate an array of objects.
