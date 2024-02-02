@@ -22,3 +22,11 @@ I followed along to [John Watson Rooney](https://www.youtube.com/@JohnWatsonRoon
 ![Beer Recommendation Output Image, Version 1](v1_screenshot.png)
 
 - This was basically the output from the video. I set up my own output however. I didn't follow the video's output example, I styled it myself.
+
+### Version 2
+
+![Beer Recommendation Output Image, Version 2](v2_screenshot.png)
+
+- I didn't like the format of the output, the tagline didn't make sense the way I had it.
+- I included the tagline as the initial recommendation.
+- I also added the IPAs description to the output as well.
