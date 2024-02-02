@@ -15,4 +15,10 @@ I followed along to [John Watson Rooney](https://www.youtube.com/@JohnWatsonRoon
     - This array of objects is a list of beers where the food pairings given for each beer in the API is fuzzy matched to the user's input.
 - Once the API finds and builds an array of beers that match the food pairing, it chooses a random one to recommend using the `Random` library, and generates a random recommendation to the screen.
 
+## Screenshots
+
+### Version 1
+
 ![Beer Recommendation Output Image, Version 1](v1_screenshot.png)
+
+- This was basically the output from the video. I set up my own output however. I didn't follow the video's output example, I styled it myself.
